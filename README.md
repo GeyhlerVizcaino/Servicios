@@ -10,3 +10,5 @@ Encontraremos los siguientes enlaces para hacer clic que son:
 - Lista de usuarios (http://localhost:8080/Servicios/webapi/usuarios)
  
 Muchas gracias por su atención. 
+
+Nota: Java EE Eclipse, Tomcat v9.0, Mysql. 
